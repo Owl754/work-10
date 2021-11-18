@@ -1,0 +1,21 @@
+body{
+    background-color: dimgray;
+}
+
+footer{
+    padding-left: 350px;
+padding-right: 150px;
+padding-top: 150;
+
+   height: 300px;
+   width: 900px;
+
+border-radius: 200px;
+border-width: 15px;
+border-color: black;
+border-style: solid;
+background-color: rgb(23, 177, 118);
+
+
+
+}
